@@ -1,2 +1,2 @@
-# meilii-studying
-A studying application allowing students and instructors to keep track of learning material
+# Meilii Studying
+Meilii Studying is a studying application built in Java that allows students and instructors to keep track of learning material. After creating an account and specifying their type of profile (student or teacher), they can create notes for different subjects. For a Student Account, they can take quizzes if they are enrolled in a teacher’s class and also save instructor notes in a file. On the other hand, teachers have an overview of each student's studying progress through the quizzes they create.
